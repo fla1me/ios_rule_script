@@ -8,6 +8,10 @@
 payload:
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
+  - DOMAIN-SUFFIX,clashroyaleapp.com
+  - DOMAIN-SUFFIX,boombeachgame.com
+  - DOMAIN-KEYWORD,clashofclans
+  - DOMAIN-KEYWORD,supercell
   - IP-CIDR,13.210.25.233/32
   - IP-CIDR,13.212.170.102/32
   - IP-CIDR,13.212.171.212/32
